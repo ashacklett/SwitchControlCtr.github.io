@@ -5,6 +5,4 @@ console.log(data)
 },
 simpleSheet: true } )
 }
-window.addEventListener(‘DOMContentLoaded’, init) { name: "Carrot", category: "Vegetable", healthiness: "Adequate" }, 
-  { name: "Pork Shoulder", category: "Meat", healthiness: "Questionable" }, 
-  { name: "Bubblegum", category: "Candy", healthiness: "Super High"} 
+
